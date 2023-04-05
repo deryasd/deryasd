@@ -11,9 +11,10 @@
 <br />
 
 <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="deryasd's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deryasd&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<br>
-<br>
-    <img height="180em" align="center" width=500px src="https://github-readme-stats.vercel.app/api/top-langs?username=deryasd&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"%20alt="deryasd"/>
-<br>
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 <br>
