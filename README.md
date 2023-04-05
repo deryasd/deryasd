@@ -12,6 +12,6 @@
 
 <summary>:zap: GitHub Stats</summary>
 <a href="https://github.com/deryasd/github-stats">
-<img src="https://github.com/deryasd/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+![](https://raw.githubusercontent.com/deryasd/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 </a>
 <br>
