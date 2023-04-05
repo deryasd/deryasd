@@ -11,7 +11,6 @@
 <br />
 
 <summary>:zap: GitHub Stats</summary>
-<a href="https://github.com/deryasd/github-stats">
-![](https://raw.githubusercontent.com/deryasd/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-</a>
+  <img  src="https://github-readme-stats.vercel.app/api?username=deryasd&show_icons=true&count_private=true&hide=contribs,issues" alt="deryasd's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deryasd&layout=compact&hide=html,css" alt="My Top Langs" />
 <br>
